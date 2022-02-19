@@ -3,6 +3,9 @@ This a simple subdomain brute-forcing script made my Nischal karki using bash on
 
 # Installation
 	  $ git clone https://github.com/ParanoidAtOath/subbrute.git
+	  
 	  $ cd subbrute
+	  
 	  $ chmod +x ffsubs.sh fsubs.sh install.sh
+	  
 	  $ ./install.sh
